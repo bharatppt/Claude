@@ -1,0 +1,67 @@
+{
+  "created_by": "trader-scanner",
+  "created_at": "2026-11-24T11:02:41Z",
+  "mode": "daily",
+  "as_of": "2026-11-23 close",
+  "universe": 9,
+  "scanned": 9,
+  "failed": 0,
+  "source": "yahoo",
+  "filters": {
+    "min_price": 5.0,
+    "min_volume": 1000000
+  },
+  "note": "A scan is a list of charts that match a rule, not a list of stocks to buy.",
+  "hits": [
+    {
+      "symbol": "NVDA",
+      "setups": [
+        "oversold_bounce"
+      ],
+      "price": 165.05,
+      "close_date": "2026-11-23",
+      "rsi": 43.0,
+      "volume": 776225888
+    },
+    {
+      "symbol": "QQQ",
+      "setups": [
+        "oversold_bounce"
+      ],
+      "price": 651.03,
+      "close_date": "2026-11-23",
+      "rsi": 42.2,
+      "volume": 83460835
+    },
+    {
+      "symbol": "AAPL",
+      "setups": [
+        "reclaim_ma20"
+      ],
+      "price": 349.08,
+      "close_date": "2026-11-23",
+      "rsi": 52.8,
+      "volume": 56997299
+    },
+    {
+      "symbol": "TSLA",
+      "setups": [
+        "reclaim_ma20"
+      ],
+      "price": 385.46,
+      "close_date": "2026-11-23",
+      "rsi": 52.1,
+      "volume": 46030333
+    },
+    {
+      "symbol": "GOOGL",
+      "setups": [
+        "oversold_bounce"
+      ],
+      "price": 282.1,
+      "close_date": "2026-11-23",
+      "rsi": 40.9,
+      "volume": 44078624
+    }
+  ]
+}
