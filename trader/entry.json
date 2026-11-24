@@ -1,0 +1,22 @@
+{
+  "created_by": "trader-entry",
+  "symbol": "QQQ",
+  "setup": "orb",
+  "side": "buy",
+  "date": "2026-11-24",
+  "status": "waiting",
+  "time": null,
+  "bar_start": null,
+  "bar_index": null,
+  "price": null,
+  "level": 641.25,
+  "interval": "5m",
+  "opening_range": {
+    "high": 641.25,
+    "low": 635.86,
+    "minutes": 15
+  },
+  "source": "yahoo",
+  "checked_at": "2026-11-24T14:49:50Z",
+  "reason": "last close $640.04 (9:40 bar), $1.21 under the range high $641.25 (-0.19%)"
+}
